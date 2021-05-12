@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MidTerm_T6_10_12</string>
+    <string-array name="product_name">
+        <item>Tasty Donut</item>
+        <item>Pink Donut</item>
+        <item>Floating Donut</item>
+        <item>Tasty Donut</item>
+    </string-array>
+    <string-array name="product_desc">
+        <item>Spicy tasty donut family</item>
+        <item>Spicy tasty donut family</item>
+        <item>Spicy tasty donut family</item>
+        <item>Spicy tasty donut family</item>
+    </string-array>
+    <string-array name="product_price">
+        <item>$10.00</item>
+        <item>$20.00</item>
+        <item>$30.00</item>
+        <item>$40.00</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
